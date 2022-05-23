@@ -25,3 +25,5 @@ cat - <<EOF
 ⠀⠀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 EOF
 ```
+
+<img alt="Chika Shelby" src="https://raw.githubusercontent.com/mluna711/mluna711/main/chika_shelby.png">
