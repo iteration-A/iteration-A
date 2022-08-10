@@ -10,7 +10,7 @@ $ genericfetch
 │ █▂▉ ╍████████╴                 ▝█┻▉│    * TypeScript/JavaScript
 │▗█▚▊  ┻███▋╏╲▘                   █▆▘│    * Scala
 │  ▗▏    ▘▊╸                      ▍  │    * Go
-│  ▝▎ ▁▃▁         ▃▃▄▃            ▍  │    * Pearl
+│  ▝▎ ▁▃▁         ▃▃▄▃            ▍  │    * Pearl (unintentionally misspelled)
 │   ▊ ▝█▘       ▗█████▊          ╱▏  │
 │   ▝▖         ▗███████▌        ╻    │   ███   ███   ███   ███   ███
 │    ▝▖       ▗█████████▆            │      ███   ███   ███   ███
